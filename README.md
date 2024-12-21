@@ -2,6 +2,16 @@
 
 This project reimagines the classic Chrome dinosaur game by introducing motion-based controls powered by computer vision. Players use real-time physical movements, captured via a webcam, to control the in-game dinosaur's actions such as jumping and ducking, creating a dynamic and immersive gameplay experience.
 ---
+## Gameplay Demo
+Watch the gameplay video to see the Real-Time Dinosaur Game in action!
+
+[Click here to watch the gameplay video](https://github.com/SaiNagaAnirudh13/Real-Time-Dinosaur-Game-with-Motion-Controlled-Simulation/blob/main/game_final.mp4)
+
+Replace `LINK_TO_VIDEO` with the URL of your video hosted on a platform like Google Drive, GitHub, or Dropbox. Ensure the link is publicly accessible so others can view it without permission issues.
+
+For example:
+```markdown
+[Click here to watch the gameplay video](https://drive.google.com/file/d/your-video-id/view?usp=sharing)
 
 ## Introduction
 This project leverages computer vision technologies to deliver an innovative motion-controlled gaming experience. It integrates real-world actions with in-game responses, showcasing the potential of gesture-based interfaces in gaming.
