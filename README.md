@@ -5,7 +5,7 @@ This project reimagines the classic Chrome dinosaur game by introducing motion-b
 ## Gameplay Demo
 Watch the gameplay video to see the Real-Time Dinosaur Game in action!
 
-[Click here to watch the gameplay video](https://github.com/SaiNagaAnirudh13/Real-Time-Dinosaur-Game-with-Motion-Controlled-Simulation/blob/main/game_final.mp4)
+https://github.com/user-attachments/assets/0e36d3c0-08ef-4de0-9a59-167ec7af229b
 
 Replace `LINK_TO_VIDEO` with the URL of your video hosted on a platform like Google Drive, GitHub, or Dropbox. Ensure the link is publicly accessible so others can view it without permission issues.
 
