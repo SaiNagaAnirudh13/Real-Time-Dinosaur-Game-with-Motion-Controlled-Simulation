@@ -7,11 +7,6 @@ Watch the gameplay video to see the Real-Time Dinosaur Game in action!
 
 https://github.com/user-attachments/assets/0e36d3c0-08ef-4de0-9a59-167ec7af229b
 
-Replace `LINK_TO_VIDEO` with the URL of your video hosted on a platform like Google Drive, GitHub, or Dropbox. Ensure the link is publicly accessible so others can view it without permission issues.
-
-For example:
-```markdown
-[Click here to watch the gameplay video](https://drive.google.com/file/d/your-video-id/view?usp=sharing)
 
 ## Introduction
 This project leverages computer vision technologies to deliver an innovative motion-controlled gaming experience. It integrates real-world actions with in-game responses, showcasing the potential of gesture-based interfaces in gaming.
@@ -82,7 +77,7 @@ Key objectives:
 ---
 
 ## Contributors
-- **T. Naga Sai Anirudh** (21BAI1861)
+- **T. Sai Naga Anirudh** (21BAI1861)
 - **K. Santosh Kumar Reddy** (21BAI1374)
 - **B.S.R. Siddhardha** (21BAI1478)
 
